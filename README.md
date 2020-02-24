@@ -16,4 +16,3 @@ A GitHub repository that serves 2 purposes:
 
 4. Create a project board named block 5. Put the issues in appropriate columns.
 
-testing
